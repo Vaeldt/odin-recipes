@@ -1,0 +1,33 @@
+.Title {
+    color:rgb(58, 9, 121);
+    background-color: rgba(222, 238, 177, 0.863);
+    font-family: sans-serif, Helvetica;
+}
+
+.Links {
+    color: seagreen;
+    font-size: 15px;
+
+}
+
+
+.Pancakes  {
+    color:rgb(209, 212, 0);
+}
+
+.Crumble.Heading  {
+    color:rgb(250, 92, 0);
+
+
+
+}
+
+.Toast.Heading {
+    color: red;
+}
+
+em {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
